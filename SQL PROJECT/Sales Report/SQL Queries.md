@@ -4,7 +4,7 @@
 1. Retrieve the first name, country, and sales amount for all customers who have placed an order.
 */
 
-SELECT c.first_name, c.country, o.sales
++SELECT+ c.first_name, c.country, o.sales
 
 FROM dbo.customers AS c
 
