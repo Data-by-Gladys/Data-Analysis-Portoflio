@@ -8,12 +8,14 @@ sales performance, and trends for the past period.
 ## Objective:
 1. Leverage SQL skills to extract and analyze data from the Refresh Supermarket database,
    answering business questions and uncovering actionable insights. The analysis uses two tables:
+ 
    a. Customer Table: contains customer_id, customer_name, country, score.
    
    b. Order Table: contains order_id, customer_id, order_date, sales.
 
 ## Project Workflow / Key Questions
 The project addresses key business questions that management needs to answer:
+
  a. Retrieve customer information and sales details
     Get the customer_name, country, and sales amount for all customers who have placed an order.
     
@@ -45,8 +47,3 @@ I used SQL Server Management Studio (SSMS) but MySQL, or other SQL-compatible to
 * Load sample or real Refresh Supermarket data into customer and order tables.
   
 * Write SQL queries to answer each question listed in the workflow.
-
-
-Highlighted high-score, high-value customers for loyalty programs.
-
-Created a shareable SQL-based report that can inform promotions, inventory, and sales strategy.
