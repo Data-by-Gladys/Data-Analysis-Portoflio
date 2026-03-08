@@ -12,7 +12,6 @@ CREATE database Sales_records;
 -- 1. Retrieve the first 10 records from the dataset to understand its structure*/
 
 Select top 10*
-
 from dbo.sales_data;
 
 /*
@@ -20,7 +19,6 @@ from dbo.sales_data;
 */
 
 Select Sum(Sales) AS Total_Sales, Sum(Profit) As Total_Profit
-
 From dbo.sales_data;
 
 -- 3. Which region has the highest total sales?
