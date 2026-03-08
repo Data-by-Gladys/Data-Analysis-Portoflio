@@ -1,13 +1,16 @@
+## Question & Solutions
+
 /*
 Creating a database which would hold my imported csv file
 */
-
+'''sql
 CREATE database Sales_records;
 
 /*--EDA QUESTIONS
 --Dataset importation and records retrival
 -- 1. Retrieve the first 10 records from the dataset to understand its structure
 */
+
 Select top 10*
 from dbo.sales_data;
 
