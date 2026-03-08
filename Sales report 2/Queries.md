@@ -1,4 +1,4 @@
-## Question & Solutions
+## Questions & Solutions
 ```sql
 
 /*
