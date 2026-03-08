@@ -1,6 +1,7 @@
 # Sales Data Analysis Using SQL
 
-##Introduction
+## Introduction
+
 This project focuses on exploring and analyzing a sales dataset using SQL. The aim of the analysis was to understand the 
 company’s overall sales performance, identify profitable product categories, and discover areas where the business may be 
 losing money.
@@ -25,9 +26,20 @@ g. Detect sub-categories that are making losses
 h. Calculate profit margin for each category
 
 ## Methodology
-The dataset was imported into a SQL database and several queries were written to explore the data, 
-calculate key metrics, and generate useful business insights.
 
+The dataset was imported into a SQL database and several queries were written to explore the data, 
+calculate key metrics, and generate useful business insights. Visualization of some key factors was done with the Excel charts.
+
+## Running the analysis
+SQL Server Management Studio (SSMS) was used for the analysis. MY SQL or other SQL compatible tools can be used.
+
+a. Create the database and tables using your preferred method (eg sql file)
+
+b. Load/import data into the database
+
+c. Write SQL queries to answer business questions
+
+d. Export/copy out analysis result to Microsoft Excel or Power BI for visualization.
 
 ## Key Findings & Business Insights
 
