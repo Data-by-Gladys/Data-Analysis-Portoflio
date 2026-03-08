@@ -12,10 +12,15 @@ CREATE database Sales_records;
 */
 
 Select top 10*
+
 from dbo.sales_data;
 
+/*
 -- 2. What is the total sales and total profit generated across all orders?
+*/
+
 Select Sum(Sales) AS Total_Sales, Sum(Profit) As Total_Profit
+
 From dbo.sales_data;
 
 -- 3. Which region has the highest total sales?
