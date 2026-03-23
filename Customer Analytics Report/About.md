@@ -1,5 +1,5 @@
 ### Customer Analytics Report
-##Project Overview
+## Project Overview
 
 This project presents a Customer Analytics Dashboard developed as part of my Data Analysis training with Axia Africa.
 
