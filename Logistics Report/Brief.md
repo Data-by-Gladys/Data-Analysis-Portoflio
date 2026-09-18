@@ -48,7 +48,7 @@ The Logistics Operations Database contains 14 related datasets covering differen
 
 The database contains both transactional and aggregated operational data. Key relationships connect customers to loads, loads to routes and trips, trips to drivers, trucks and trailers, and trips to fuel purchases, delivery events, and safety information. This relational structure makes it possible to analyse operational performance from multiple perspectives.
 
-**### 5. Key Findings**
+### 5. Key Findings
 
 The dashboard highlights several important patterns across the logistics operation. The business recorded ₦257.26M in total revenue across 85.41K loads and 200 customers, indicating a large operational volume. Revenue varies across booking types and customer types, with some customer segments contributing more significantly to overall revenue than others.
 
@@ -60,7 +60,7 @@ Route and cost analysis highlights differences in revenue yield, fuel efficiency
 
 Overall, the findings show that revenue alone does not provide a complete picture of logistics performance. Fuel efficiency, fleet utilization, maintenance, delivery performance, customer contribution, and safety costs need to be considered together when evaluating operational efficiency.
 
-**###  6. Conclusion**
+### 6. Conclusion
 
 This project provides an interactive view of logistics operations across revenue, customers, loads, drivers, trucks, routes, fuel, maintenance, deliveries, and safety incidents. The three dashboards transform the underlying logistics database into a practical analytical tool for monitoring both financial and operational performance.
 
