@@ -68,4 +68,3 @@ The analysis demonstrates how Power BI, Power Query, data modelling, and DAX can
 
 Power BI was used for data preparation, modelling, DAX calculations, and interactive dashboard development. Power Query was used to prepare the datasets and ensure fields were correctly structured for analysis. Relationships between the operational tables were established using primary and foreign keys, while calculated measures were created to evaluate revenue, delivery performance, fuel efficiency, utilization, maintenance costs, and other operational KPIs.
 
-The final report consists of three interconnected dashboards:
